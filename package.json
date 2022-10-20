@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mventurin96/api-auth-docker/issues"
   },
-  "homepage": "https://github.com/mventurin96/api-auth-docker#readme"
+  "homepage": "https://github.com/mventurin96/api-auth-docker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
